@@ -5,7 +5,7 @@
 - 📫 How to reach me
   - no.
 - 😄 Pronouns: Any
-- ⚡ Fun fact: Click create README.md for your profile (very cool fact)
+- ⚡ Fun fact: Click create README.md in your github profile (very cool fact)
 
 <!---
 ilyyuna/ilyyuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
